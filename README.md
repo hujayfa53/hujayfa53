@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a MERN stack developer who loves creating fast and modern web apps. I work with React, Node.js, and MongoDB, and I’m always exploring new tools and techniques to get better. If you enjoy talking about web development or tech ideas, I’m always open to connect.
+I’m a junior web developer passionate about building modern, responsive, and user-friendly web applications. I enjoy working with JavaScript, React, and Node.js, and I’m always exploring new tools and techniques to improve my skills. I love solving problems and turning ideas into functional, efficient web solutions. I’m eager to learn, grow, and contribute to projects that make a real impact.
 
 ---
 
