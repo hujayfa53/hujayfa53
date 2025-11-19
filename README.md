@@ -4,8 +4,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I'm a passionate mern-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
- Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+I’m a MERN stack developer who loves creating fast and modern web apps. I work with React, Node.js, and MongoDB, and I’m always exploring new tools and techniques to get better. If you enjoy talking about web development or tech ideas, I’m always open to connect.
 
 ---
 
